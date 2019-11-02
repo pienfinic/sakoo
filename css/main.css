@@ -1,0 +1,37 @@
+#app #nomApp{
+	margin:auto;
+	font-size:30px;
+	text-align:center;
+	margin-top:20px;
+}
+#app #sousTitre{
+	margin:auto;
+	text-align:center;
+	font-family:Arial;
+}
+#app #formilaire{
+	margin-top:110px;
+}
+#app #pied{
+	text-align:center;
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+#app #formilaire #btnInscription{
+	text-align:center;
+}
+#app #formilaire #creationCompte{
+	text-align:center;
+	left:0;
+	right:0;
+}
+#app #titrePopup{
+	text-align:center;
+}
+#app #chargementImage{
+	width:50px;
+	display: block;
+	margin:auto;
+}
